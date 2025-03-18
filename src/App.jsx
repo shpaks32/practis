@@ -5,7 +5,7 @@ import NotFoundPage from './pages/NotFoundPage'
 
 function App () {
   return (
-    <Router basename='/college-practice'>
+    <Router basename='/practis/'>
       <Routes>
         <Route path='/' element={<BasePage />}>
           <Route index element={<Home />} />

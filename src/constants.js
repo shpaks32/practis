@@ -1,7 +1,7 @@
-const STATIC_IMAGES_PATH = '/college-practice/img/'
+const STATIC_IMAGES_PATH = '/practis/img/'
 
 export default {
-  STATIC_IMAGES_PATH: '/college-practice/img/',
+  STATIC_IMAGES_PATH: '/practis/img/',
   MENU_ITEMS: [
     { label: 'Home', to: '/' },
     { label: 'Company', to: '/company' },
